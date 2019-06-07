@@ -1,0 +1,1 @@
+politicas_privacidad.blade.php
